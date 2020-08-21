@@ -94,18 +94,18 @@ To test the network do the folowings:
 
 After testing, these files will be generated in current directory shown below:
 
-1. result.csv     ## predicted result on test data
+- result.csv     ## predicted result on test data
 	
 
 		
 ### Demo code
 
-An interactive notebook file named 'demo_test_code.ipynb' has been attached. To test the demo code, you have to store video files in 'demo data' folder. There will be only video files. There should not be any subfolders in 'demo data' folder.
+An interactive notebook file named **demo_test_code.ipynb** has been attached. To test the demo code, you have to store video files in 'demo data' folder. There will be only video files. There should not be any subfolders in 'demo data' folder.
 
 ###### demo data
-─ video1_2.avi
-─ video3_2.avi
-─ video4_2.avi
+- video1_2.avi
+- video3_2.avi
+- video4_2.avi
  
 
 
@@ -113,4 +113,3 @@ An interactive notebook file named 'demo_test_code.ipynb' has been attached. To 
 You're welcome to contact us:
 1. tisbuet@gmail.com
 2. shouborno@ieee.org
-
