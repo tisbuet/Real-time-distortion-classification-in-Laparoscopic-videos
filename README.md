@@ -3,15 +3,15 @@
 
 The folder should contain the followings files and folders.
 	Files:
-		1. requirements.txt
-		2. readme.md
-		3. BUET_Endgame_report.pdf
-		4. train.py
-		5. test.py
-		6. utils.py
-		7. demo_test_code.ipynb
-		8. ffmpeg.exe
-		9. Confusion_Matrix.png   	 #on 20% unseen data
+		- requirements.txt
+		- readme.md
+		- BUET_Endgame_report.pdf
+		- train.py
+		- test.py
+		- utils.py
+		- demo_test_code.ipynb
+		- ffmpeg.exe
+		- Confusion_Matrix.png   	 #on 20% unseen data
 	       
 	Folders:
 		1. train data
