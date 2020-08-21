@@ -1,4 +1,4 @@
-# Real-time-distortion-classification-in-Laparoscopic-videos
+# Real-time distortion classification in Laparoscopic videos
 ### Folder Description
 
 The folder should contain the followings files and folders.
@@ -102,14 +102,15 @@ After testing, these files will be generated in current directory shown below:
 
 An interactive notebook file named 'demo_test_code.ipynb' has been attached. To test the demo code, you have to store video files in 'demo data' folder. There will be only video files. There should not be any subfolders in 'demo data' folder.
 
-├── demo data├── video1_2.avi
- 	     ├── video3_2.avi
-	     ├── video4_2.avi
+###### demo data
+─ video1_2.avi
+─ video3_2.avi
+─ video4_2.avi
  
 
 
 ### For Any Query
 You're welcome to contact us:
-	1. tisbuet@gmail.com
-	2. shouborno@ieee.org
+1. tisbuet@gmail.com
+2. shouborno@ieee.org
 
