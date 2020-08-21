@@ -11,7 +11,7 @@ Files:
 6. utils.py
 7. demo_test_code.ipynb
 8. ffmpeg.exe
-9. Confusion_Matrix.png   	 #on 20% unseen data
+9. Confusion_Matrix.png (on 20% unseen data)
 
 Folders:
 1. train data
@@ -90,7 +90,7 @@ To test the network do the folowings:
 
 
 
-# The Result 
+### The Result 
 
 After testing, these files will be generated in current directory shown below:
 
@@ -98,7 +98,7 @@ After testing, these files will be generated in current directory shown below:
 	
 
 		
-# Demo code
+### Demo code
 
 An interactive notebook file named 'demo_test_code.ipynb' has been attached. To test the demo code, you have to store video files in 'demo data' folder. There will be only video files. There should not be any subfolders in 'demo data' folder.
 
@@ -108,7 +108,7 @@ An interactive notebook file named 'demo_test_code.ipynb' has been attached. To 
  
 
 
-# For Any Query
+### For Any Query
 You're welcome to contact us:
 	1. tisbuet@gmail.com
 	2. shouborno@ieee.org
