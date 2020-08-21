@@ -3,21 +3,21 @@
 
 The folder should contain the followings files and folders.
 	Files:
-	1. requirements.txt
-	2. readme.md
-	3. BUET_Endgame_report.pdf
-	4. train.py
-	5. test.py
-	6. utils.py
-	7. demo_test_code.ipynb
-	8. ffmpeg.exe
-	9. Confusion_Matrix.png       # on 20% unseen data
+		1. requirements.txt
+		2. readme.md
+		3. BUET_Endgame_report.pdf
+		4. train.py
+		5. test.py
+		6. utils.py
+		7. demo_test_code.ipynb
+		8. ffmpeg.exe
+		9. Confusion_Matrix.png   	 #on 20% unseen data
 	       
 	Folders:
-	1. train data
-	2. test data
-	3. demo data
-	4. model
+		1. train data
+		2. test data
+		3. demo data
+		4. model
 					
 For the python part ,you're requested to see the 'requirements.txt' file to know if you're up to date. To ensure you're up to date, run:
 		'pip install -r requirements.txt'
