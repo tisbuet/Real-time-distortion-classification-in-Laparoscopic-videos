@@ -59,8 +59,8 @@ After the successful completation of previous two sections you may train the net
 Team BUET_ENDGAME encourage you to retrain the model.
 
 To extract frames and retrain the network do the followings:
-			1. Open command window in 'BUET_ENDGAME' folder.
-			2. Type 'python train.py -extract' and hit 'Enter'.
+1. Open command window in 'BUET_ENDGAME' folder.
+2. Type 'python train.py -extract' and hit 'Enter'.
 
 It will extract frames from train data and store in 'BUET_ENDGAME/Extracted_train_data_images' folder. And it will be trained eventually.
 
