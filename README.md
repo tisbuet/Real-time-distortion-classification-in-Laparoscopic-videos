@@ -88,7 +88,7 @@ After training, these files will be generated shown below:
  
 To test the network do the folowings:
 1. Open command window in **BUET_ENDGAME** folder.
-2. Type `$ python test.py` and hit 'Enter'.
+2. Type `$ python test.py` and hit **Enter**.
 
 
 
@@ -104,7 +104,7 @@ After testing, these files will be generated in current directory shown below:
 		
 ### Demo code
 
-An interactive notebook file named **demo_test_code.ipynb** has been attached. To test the demo code, you have to store video files in **demo data** folder. There will be only video files. There should not be any subfolders in 'demo data' folder.
+An interactive notebook file named `demo_test_code.ipynb` has been attached. To test the demo code, you have to store video files in **demo data** folder. There will be only video files. There should not be any subfolders in **demo data** folder.
 
 ##### demo data
 - video1_2.avi
