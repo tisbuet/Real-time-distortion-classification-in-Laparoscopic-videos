@@ -1,0 +1,9 @@
+numpy
+sklearn
+matplotlib
+tqdm
+opencv-python
+tensorflow-gpu
+keras-self-attention
+keras
+natsort
