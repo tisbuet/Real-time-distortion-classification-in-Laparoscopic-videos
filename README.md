@@ -29,7 +29,7 @@ For the python part ,you're requested to see the 'requirements.txt' file to know
 
 1. Put all the all unzip folders in 'BUET_ENDGAME/train data' folder to train the network.
 
-train data 
+###### train data 
 - awgn
 - defocus_blur
 - defocus_uneven
@@ -43,12 +43,12 @@ train data
 
 2. Put all the all unzip folders in 'BUET_ENDGAME/test data' folder to predict the result.
 
-├── test data 
-	├── test_data1
-	├── test_data2
-	├── test_data3
-	├── test_data4
-	├── test_data5
+###### test data 
+- test_data1
+- test_data2
+- test_data3
+- test_data4
+- test_data5
  
 
 
