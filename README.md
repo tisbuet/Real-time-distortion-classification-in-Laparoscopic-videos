@@ -1,4 +1,5 @@
 # Real-time distortion classification in Laparoscopic videos
+It's not a traditional video/image classification problem, where recognition of pattern is primary goal. Rather, these frames of every videos have been destroyed using noisy parameters like white gaussian noise, smokes, uneven illuminations, blurriness due to defocus and motions, and combinations of these noisy features. And our motive of this project is to classify the noise or distortion features. So, the goal of recognizing pattern has become second part of this project, where our primary goal has become the extraction of noisy features.  This distortion classification problem has many aspects in Biomedical and Signal processing area specially to enhance the video quality of laparoscopy, endoscopy.
 ### Folder Description
 
 The folder should contain the followings files and folders.
