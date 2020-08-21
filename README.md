@@ -27,7 +27,7 @@ For the python part ,you're requested to see the 'requirements.txt' file to know
 	
 ### Dataset location
 
-1. Put all the all unzip folders in 'BUET_ENDGAME/train data' folder to train the network.
+1. Put all the all unzip folders in **BUET_ENDGAME/train data** folder to train the network.
 
 ###### train data 
 - awgn
@@ -41,7 +41,7 @@ For the python part ,you're requested to see the 'requirements.txt' file to know
 - smoke_uneven
 - uneven_illum
 
-2. Put all the all unzip folders in 'BUET_ENDGAME/test data' folder to predict the result.
+2. Put all the all unzip folders in **BUET_ENDGAME/test data** folder to predict the result.
 
 ###### test data 
 - test_data1
@@ -59,16 +59,16 @@ After the successful completation of previous two sections you may train the net
 Team BUET_ENDGAME encourage you to retrain the model.
 
 To extract frames and retrain the network do the followings:
-1. Open command window in 'BUET_ENDGAME' folder.
-2. Type 'python train.py -extract' and hit 'Enter'.
+1. Open command window in **BUET_ENDGAME** folder.
+2. Type `$ python train.py -extract` and hit **Enter**.
 
-It will extract frames from train data and store in 'BUET_ENDGAME/Extracted_train_data_images' folder. And it will be trained eventually.
+It will extract frames from train data and store in **BUET_ENDGAME/Extracted_train_data_images** folder. And it will be trained eventually.
 
-If extracted frames are present in 'BUET_ENDGAME/Extracted_train_data_images' folder already you can retrain our model again and again without extraction of frames.
+If extracted frames are present in **BUET_ENDGAME/Extracted_train_data_images** folder already you can retrain our model again and again without extraction of frames.
 
 So, to train the network only, in case you have extracted frames already, do the following:
-			1. Open command window in 'BUET_ENDGAME' folder.
-			2. Type 'python train.py' and hit 'Enter'.
+1. Open command window in **BUET_ENDGAME** folder.
+2. Type `$ python train.py` and hit **Enter**.
 
 
 After training, these files will be generated shown below:
