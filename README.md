@@ -29,7 +29,7 @@ For the python part ,you're requested to see the 'requirements.txt' file to know
 
 1. Put all the all unzip folders in **BUET_ENDGAME/train data** folder to train the network.
 
-###### train data 
+##### train data 
 - awgn
 - defocus_blur
 - defocus_uneven
@@ -43,7 +43,7 @@ For the python part ,you're requested to see the 'requirements.txt' file to know
 
 2. Put all the all unzip folders in **BUET_ENDGAME/test data** folder to predict the result.
 
-###### test data 
+##### test data 
 - test_data1
 - test_data2
 - test_data3
@@ -94,15 +94,15 @@ To test the network do the folowings:
 
 After testing, these files will be generated in current directory shown below:
 
-- result.csv     ## predicted result on test data
+- result.csv (predicted result on test data)
 	
 
 		
 ### Demo code
 
-An interactive notebook file named **demo_test_code.ipynb** has been attached. To test the demo code, you have to store video files in 'demo data' folder. There will be only video files. There should not be any subfolders in 'demo data' folder.
+An interactive notebook file named **demo_test_code.ipynb** has been attached. To test the demo code, you have to store video files in **demo data** folder. There will be only video files. There should not be any subfolders in 'demo data' folder.
 
-###### demo data
+##### demo data
 - video1_2.avi
 - video3_2.avi
 - video4_2.avi
