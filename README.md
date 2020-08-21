@@ -21,7 +21,7 @@ Folders:
 					
 For the python part ,you're requested to see the 'requirements.txt' file to know if you're up to date. To ensure you're up to date, run:
 
-`$ pip install -r requirements.txt`
+`pip install -r requirements.txt`
 	
 
 	
@@ -60,7 +60,7 @@ Team BUET_ENDGAME encourage you to retrain the model.
 
 To extract frames and retrain the network do the followings:
 1. Open command window in **BUET_ENDGAME** folder.
-2. Type `$ python train.py -extract` and hit **Enter**.
+2. Type `python train.py -extract` and hit **Enter**.
 
 It will extract frames from train data and store in **BUET_ENDGAME/Extracted_train_data_images** folder. And it will be trained eventually.
 
@@ -68,13 +68,13 @@ If extracted frames are present in **BUET_ENDGAME/Extracted_train_data_images** 
 
 So, to train the network only, in case you have extracted frames already, do the following:
 1. Open command window in **BUET_ENDGAME** folder.
-2. Type `$ python train.py` and hit **Enter**.
+2. Type `python train.py` and hit **Enter**.
 
 
 After training, these files will be generated shown below:
-			1. 'BUET_ENDGAME/model/trained_model.h5 model file.
-			2. accuracy curve.png 
-	       	3. loss curve.png 
+1. **BUET_ENDGAME/model/trained_model.h5** model file.
+2. accuracy curve.png 
+3. loss curve.png 
 
 
 
@@ -83,8 +83,8 @@ After training, these files will be generated shown below:
 ### Test The Network 
  
 To test the network do the folowings:
-			1. Open command window in 'BUET_ENDGAME' folder.
-			2. Type 'python test.py' and hit 'Enter'.
+1. Open command window in **BUET_ENDGAME** folder.
+2. Type `python test.py` and hit 'Enter'.
 
 
 
@@ -94,7 +94,7 @@ To test the network do the folowings:
 
 After testing, these files will be generated in current directory shown below:
 
-	       	1. result.csv     ## predicted result on test data
+1. result.csv     ## predicted result on test data
 	
 
 		
