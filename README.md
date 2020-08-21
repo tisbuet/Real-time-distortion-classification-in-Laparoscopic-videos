@@ -20,7 +20,7 @@ Folders:
 4. model
 					
 For the python part ,you're requested to see the 'requirements.txt' file to know if you're up to date. To ensure you're up to date, run:
-> 'pip install -r requirements.txt'
+`$ pip install -r requirements.txt
 	
 
 	
