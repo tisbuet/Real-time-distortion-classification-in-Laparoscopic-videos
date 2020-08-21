@@ -29,17 +29,17 @@ For the python part ,you're requested to see the 'requirements.txt' file to know
 
 1. Put all the all unzip folders in 'BUET_ENDGAME/train data' folder to train the network.
 
-├── train data 
-	├── awgn
-	├── defocus_blur
-	├── defocus_uneven
-	├── motion_blur
-	├── noise_smoke
-	├── noise_smoke_uneven
-	├── noise_uneven
-	├── smoke
-	├── smoke_uneven
-	├── uneven_illum
+train data 
+- awgn
+- defocus_blur
+- defocus_uneven
+- motion_blur
+- noise_smoke
+- noise_smoke_uneven
+- noise_uneven
+- smoke
+- smoke_uneven
+- uneven_illum
 
 2. Put all the all unzip folders in 'BUET_ENDGAME/test data' folder to predict the result.
 
