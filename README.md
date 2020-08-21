@@ -2,22 +2,22 @@
 # Folder Description
 
 The folder should contain the followings files and folders.
-	Files:
-		- requirements.txt
-		- readme.md
-		- BUET_Endgame_report.pdf
-		- train.py
-		- test.py
-		- utils.py
-		- demo_test_code.ipynb
-		- ffmpeg.exe
-		- Confusion_Matrix.png   	 #on 20% unseen data
-	       
-	Folders:
-		1. train data
-		2. test data
-		3. demo data
-		4. model
+Files:
+	1. requirements.txt
+	2. readme.md
+	3. BUET_Endgame_report.pdf
+	4. train.py
+	5. test.py
+	6. utils.py
+	7. demo_test_code.ipynb
+	8. ffmpeg.exe
+	9. Confusion_Matrix.png   	 #on 20% unseen data
+
+Folders:
+	1. train data
+	2. test data
+	3. demo data
+	4. model
 					
 For the python part ,you're requested to see the 'requirements.txt' file to know if you're up to date. To ensure you're up to date, run:
 		'pip install -r requirements.txt'
@@ -29,23 +29,23 @@ For the python part ,you're requested to see the 'requirements.txt' file to know
 1. Put all the all unzip folders in 'BUET_ENDGAME/train data' folder to train the network.
 
 ├── train data ├── awgn
- 	       ├── defocus_blur
-	       ├── defocus_uneven
-	       ├── motion_blur
-	       ├── noise_smoke
-	       ├── noise_smoke_uneven
-	       ├── noise_uneven
-	       ├── smoke
-	       ├── smoke_uneven
-	       ├── uneven_illum
+			   ├── defocus_blur
+			   ├── defocus_uneven
+			   ├── motion_blur
+			   ├── noise_smoke
+			   ├── noise_smoke_uneven
+			   ├── noise_uneven
+			   ├── smoke
+			   ├── smoke_uneven
+			   ├── uneven_illum
 
 2. Put all the all unzip folders in 'BUET_ENDGAME/test data' folder to predict the result.
 
 ├── test data ├── test_data1
- 	      ├── test_data2
-	      ├── test_data3
-	      ├── test_data4
-	      ├── test_data5
+			  ├── test_data2
+			  ├── test_data3
+			  ├── test_data4
+			  ├── test_data5
  
 
 
@@ -71,7 +71,7 @@ So, to train the network only, in case you have extracted frames already, do the
 After training, these files will be generated shown below:
 			1. 'BUET_ENDGAME/model/trained_model.h5 model file.
 			2. accuracy curve.png 
-	       		3. loss curve.png 
+	       	3. loss curve.png 
 
 
 
@@ -91,7 +91,7 @@ To test the network do the folowings:
 
 After testing, these files will be generated in current directory shown below:
 
-	       		1. result.csv     ## predicted result on test data
+	       	1. result.csv     ## predicted result on test data
 	
 
 		
