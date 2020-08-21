@@ -25,7 +25,7 @@ For the python part ,you're requested to see the 'requirements.txt' file to know
 	
 
 	
-# Get The Data 
+### Dataset location
 
 1. Put all the all unzip folders in 'BUET_ENDGAME/train data' folder to train the network.
 
@@ -53,7 +53,7 @@ For the python part ,you're requested to see the 'requirements.txt' file to know
 
 
 
-# Train The Network
+### Train The Network
 
 After the successful completation of previous two sections you may train the network once again. You can 'SKIP' this portion as it's already trained.
 Team BUET_ENDGAME encourage you to retrain the model.
@@ -80,7 +80,7 @@ After training, these files will be generated shown below:
 
 
 
-# Test The Network 
+### Test The Network 
  
 To test the network do the folowings:
 			1. Open command window in 'BUET_ENDGAME' folder.
