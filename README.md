@@ -8,7 +8,7 @@ The folder should contain the followings files and folders.
 
 Files:
 1. requirements.txt
-2. readme.md
+2. README.md
 3. BUET_Endgame_report.pdf
 4. train.py
 5. test.py
