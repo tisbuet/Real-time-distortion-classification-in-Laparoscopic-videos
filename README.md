@@ -5,7 +5,7 @@ It's not a traditional video/image classification problem, where recognition of 
 Here is a link below to download 10 seperated zip files for 10 classes of noise.
 > https://drive.google.com/drive/folders/1NxU3BRj_qk8MepHXBkOdQ4lFNn6tYujd
 
-You will found a brief description of the dataset [here](https://drive.google.com/file/d/1zzdwdvvI834xi6E6gKMxG3H5p6ls9Ibs/view?usp=sharing) .
+You will found a brief description of the dataset [here](https://drive.google.com/file/d/1zzdwdvvI834xi6E6gKMxG3H5p6ls9Ibs/view?usp=sharing).
 
 *The ICIP LVQ Challenge dataset is publicly released under the Creative Commons licence CC-BY-NC-SA 4.0. This implies that:*
 *- the dataset cannot be used for commercial purposes,*
