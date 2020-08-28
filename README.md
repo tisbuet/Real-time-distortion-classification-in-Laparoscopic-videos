@@ -1,5 +1,17 @@
 # Real-time distortion classification in Laparoscopic videos
 It's not a traditional video/image classification problem, where recognition of pattern is primary goal. Rather, these frames of every videos have been destroyed using noisy parameters like white gaussian noise, smokes, uneven illuminations, blurriness due to defocus and motions, and combinations of these noisy features. And our motive of this project is to classify the noise or distortion features. So, the goal of recognizing pattern has become second part of this project, where our primary goal has become the extraction of noisy features.  This distortion classification problem has many aspects in Biomedical and Signal processing area specially to enhance the video quality of laparoscopy, endoscopy.
+
+### Dataset source
+Here is a link below to download 10 seperated zip files for 10 classes of noise.
+> https://drive.google.com/drive/folders/1NxU3BRj_qk8MepHXBkOdQ4lFNn6tYujd
+You will found a brief description of the dataset [here](https://drive.google.com/file/d/1zzdwdvvI834xi6E6gKMxG3H5p6ls9Ibs/view?usp=sharing) 
+
+*The ICIP LVQ Challenge dataset is publicly released under the Creative Commons licence CC-BY-NC-SA 4.0. This implies that:*
+*- the dataset cannot be used for commercial purposes,*
+*- the dataset can be transformed (additional annotations, etc.),*
+*- the dataset can be redistributed as long as it is redistributed under the same license with the obligation to cite the contributing work which led to the* *generation of the LVQ and cholec80 datasets (mentioned above).*
+
+By downloading and using this dataset, you agree on these terms and conditions.
 ### Folder Description
 
 > ffmpeg.exe is necessary in current directory. So, make sure you've downloaded, or you can download it from [here](https://ffmpeg.org/ "here").
