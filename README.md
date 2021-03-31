@@ -127,5 +127,5 @@ An interactive notebook file named `demo_test_code.ipynb` has been attached. To 
 
 
 ### For Any Query
-You're welcome to contact us:
+You're welcome to contact me:
     tisbuet@gmail.com
